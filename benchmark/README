@@ -1,0 +1,13 @@
+What is in this directory?
+--------------------------
+
+benchmark1/
+    Jupyter notebook and necessary data to replicate near-native
+    analysis in Fig 2A-C.
+benchmark2/
+    Jupyter notebook and necessary data to replicate no prior information analysis in Fig 2D and S5.
+translation/
+    Jupyter notebook and necessary data to replicate helix translation analysis
+    in Fig 4A.
+rnaome/
+    Jupyter notebook and necessary data to replicate RNAome analysis in Fig 4B.

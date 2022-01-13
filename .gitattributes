@@ -1,0 +1,6 @@
+benchmark/benchmark1/benchmark1.csv filter=lfs diff=lfs merge=lfs -text
+benchmark/benchmark2/benchmark2_bootstrap.csv filter=lfs diff=lfs merge=lfs -text
+benchmark/benchmark2/benchmark2_nobootstrap.csv filter=lfs diff=lfs merge=lfs -text
+benchmark/benchmark2/all_data_scores.csv filter=lfs diff=lfs merge=lfs -text
+benchmark/rnaome/rnaome.csv filter=lfs diff=lfs merge=lfs -text
+benchmark/benchmark2/process_data/all_data_scores.pkl filter=lfs diff=lfs merge=lfs -text

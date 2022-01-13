@@ -1,0 +1,5 @@
+If desired, please run the included script on the attached pickled dataframe to reproduce the benchmark2_nobootstrap.csv and benchmark2_bootstrap.csv data files in this repository.
+
+Due to the stochastic nature of the bootstrap, these data (generated with a constant seed) differ slightly from those used to generate the figures in the paper. These differences are small, within the bootstrap error of the original study, and do not affect the scientific conclusions.
+
+The script was most recently run with numpy 1.18.5 in python 3.8.8 on Ubuntu 20.04; *in theory* minute deviations are possible even with a constant seed due to platform-to-platform differences.
